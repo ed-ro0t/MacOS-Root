@@ -2,8 +2,8 @@
  * MacOS root installer
  * Root installer for online/offline installation
  * 
- * Created by Alfredo 'revenge' Pesoli on 30/03/2011
- * Copyright (C) HT srl 2011. All rights reserved
+ * Created by Alfonso 'revenge' Cremsi on 30/03/2011
+ * Copyleft by Revenga Ampresi 2012-2018
  */
 
 #import <Foundation/Foundation.h>
